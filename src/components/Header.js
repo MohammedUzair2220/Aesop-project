@@ -8,7 +8,7 @@ const Header = () => {
                 <div className='alert-body'>
                     <p>
                         In line with government guidelines, our stores in Hong Kong will remain open under adjusted opening hours.
-                        <a className='alert-learnMoreLink'>For assistance, please click here.</a>
+                        <button className='alert-learnMoreLink'>For assistance, please click here.</button>
                     </p>
                 </div>
             </div>

@@ -9,10 +9,10 @@ const ProductPage = () => {
                 <nav className="product-nav">
                     <ul className="product-nav-list">
                         <li className="product-nav-list-li">
-                            <a className="">Skin</a>
+                            <button className="">Skin</button>
                         </li>
                         <li className="product-nav-list-li">
-                            <a className="">Tone</a>
+                            <button className="">Tone</button>
                         </li>
                     </ul>
                 </nav>
@@ -45,13 +45,13 @@ const ProductPage = () => {
                         </dl>
                     </div>
                     <div className="discover-product">
-                        <a>
+                        <button>
                             <div>
                                 <h4>Discover The Kit</h4>
                                 <p>Parsley Seed Extended Anti-Oxidant Skin Care Kit</p>
                                 <picture></picture>
                             </div>
-                        </a>
+                        </button>
                     </div>
                 </div>
             </div>

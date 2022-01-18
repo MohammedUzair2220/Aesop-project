@@ -5,7 +5,7 @@ const ProductDescription = () => {
     return(
         <div className="item">
             <div className="item-img">
-                <img className="img1" loading="lazy" src="https://www.aesop.com/u1nb1km7t5q7/5p8HTAsan1kAf7lvy3mglz/927167c016a3c8b8639f46f9352b6721/Aesop-Skin-Parsley-Seed-Facial-Toner-Texture-1440x1800.jpg" />
+                <img className="img1" alt="product_image" loading="lazy" src="https://www.aesop.com/u1nb1km7t5q7/5p8HTAsan1kAf7lvy3mglz/927167c016a3c8b8639f46f9352b6721/Aesop-Skin-Parsley-Seed-Facial-Toner-Texture-1440x1800.jpg" />
             </div>
             <div className="user-guide">
                 <div className="content-module">

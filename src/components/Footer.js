@@ -36,7 +36,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <button className="footer-links">Shipping &#8599;</button>
-                            </libuttobutton
+                            </li>
                             <li>
                                 <button className="footer-links">Returns &#8599;</button>
                             </li>

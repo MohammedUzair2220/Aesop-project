@@ -16,9 +16,9 @@ const Footer = () => {
                                 <label className="checkbox-module">
                                     <input type="checkbox" />
                                     <span className="checkbox-input">Subscribe to receive communications from Aesop about our products and services. By subscribing, you confirm you have read and accept our 
-                                    <a>
+                                    <button>
                                          privacy policy &#8599;
-                                    </a>
+                                    </button>
                                     </span>
                                 </label>
                             </section>
@@ -29,22 +29,22 @@ const Footer = () => {
                         <div className="footer-block-border"></div>
                         <ul className="footer-block-list">
                             <li>
-                                <a className="footer-links">Contact us</a>
+                                <button className="footer-links">Contact us</button>
                             </li>
                             <li>
-                                <a className="footer-links">FAQs &#8599;</a>
+                                <button className="footer-links">FAQs &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">Shipping &#8599;</a>
+                                <button className="footer-links">Shipping &#8599;</button>
+                            </libuttobutton
+                            <li>
+                                <button className="footer-links">Returns &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">Returns &#8599;</a>
+                                <button className="footer-links">Order Histroy</button>
                             </li>
                             <li>
-                                <a className="footer-links">Order Histroy</a>
-                            </li>
-                            <li>
-                                <a className="footer-links">Terms and Conditions</a>
+                                <button className="footer-links">Terms and Conditions</button>
                             </li>
                         </ul>
                     </section>
@@ -53,13 +53,13 @@ const Footer = () => {
                         <div className="footer-block-border"></div>
                         <ul className="footer-block-list">
                             <li>
-                                <a className="footer-links">Live assistance</a>
+                                <button className="footer-links">Live assistance</button>
                             </li>
                             <li>
-                                <a className="footer-links">Corporate gifts</a>
+                                <button className="footer-links">Corporate gifts</button>
                             </li>
                             <li>
-                                <a className="footer-links">Facial appointments</a>
+                                <button className="footer-links">Facial appointments</button>
                             </li>
                         </ul>
                     </section>
@@ -69,12 +69,12 @@ const Footer = () => {
                         <ul className="footer-block-list">
                             <li>
                                 <span>Shipping:
-                                <a className="footer-links">Hong Kong (S.A.R)</a>
+                                <button className="footer-links">Hong Kong (S.A.R)</button>
                                 </span>
                             </li>
                             <li>
                                 <span>Language:
-                                <a className="footer-links">English</a>
+                                <button className="footer-links">English</button>
                                 </span>
                             </li>
                         </ul>
@@ -85,7 +85,7 @@ const Footer = () => {
                         <div className="footerblock-listitem">
                             <p>
                             All Aesop products are vegan, and we do not test our formulations or ingredients on animals. We are Leaping Bunny approved and a Certified B Corporation.
-                            <a href="">Learn more</a>
+                            <button>Learn more</button>
                             </p>
                             
                         </div>
@@ -95,19 +95,19 @@ const Footer = () => {
                     <div className="footer-block-border"></div>
                         <ul className="footer-block-list">
                             <li>
-                                <a className="footer-links">Our Story</a>
+                                <button className="footer-links">Our Story</button>
                             </li>
                             <li>
-                                <a className="footer-links">Foundation &#8599;</a>
+                                <button className="footer-links">Foundation &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">Careers</a>
+                                <button className="footer-links">Careers</button>
                             </li>
                             <li>
-                                <a className="footer-links">Privacy policy</a>
+                                <button className="footer-links">Privacy policy</button>
                             </li>
                             <li>
-                                <a className="footer-links">Accessibility</a>
+                                <button className="footer-links">Accessibility</button>
                             </li>
                         </ul>
                     </section>
@@ -116,19 +116,19 @@ const Footer = () => {
                         <div className="footer-block-border"></div>
                         <ul className="footer-block-list">
                             <li>
-                                <a className="footer-links">Instagram &#8599;</a>
+                                <button className="footer-links">Instagram &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">Twitter &#8599;</a>
+                                <button className="footer-links">Twitter &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">LinkedIn &#8599;</a>
+                                <button className="footer-links">LinkedIn &#8599;</button>
                             </li>
                             <li>
-                                <a className="footer-links">WeChat</a>
+                                <button className="footer-links">WeChat</button>
                             </li>
                             <li>
-                                <a className="footer-links">Weibo &#8599;</a>
+                                <button className="footer-links">Weibo &#8599;</button>
                             </li>
                         </ul>
                     </section>

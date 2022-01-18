@@ -1,0 +1,87 @@
+/* * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h1 {
+    color: #555;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .wrapper {
+    margin: 85px 0;
+  }
+  
+  .container {
+    max-width: 980px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  .slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    margin: 0 -10px;
+  }
+  .slider .items {
+    display: flex;
+    width: 100%;
+  }
+  .slider .items .item-carousel {
+    padding: 0 10px;
+    width: 25%;
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
+  @media screen and (max-width: 700px) {
+    .slider .items .item-carousel {
+      width: 50%;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .slider .items .item-carousel {
+      width: 100%;
+    }
+  }
+  .slider .items .item-carousel .child {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #fafaff;
+    border: 1px solid #9494ff;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background: #fff url("https://www.aesop.com/u1nb1km7t5q7/1nq73OEy9IJrjMJK6xV6gi/bc333eb8d9c3d316f61706ca7c836efe/Aesop-Skin-Parsley-Seed-Anti-Oxidant-Facial-Hydrating-Cream-60mL-small.png");
+  }
+  .slider .items .item-carousel .footer {
+    background: #9494ff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 50px;
+  }
+  .slider .buttons #left, .slider .buttons #right {
+    position: absolute;
+    cursor: pointer;
+    top: 40%;
+    background: #500ea5;
+    color: #fff;
+    padding: 10px;
+  }
+  .slider .buttons #left {
+    left: 10px;
+  }
+  .slider .buttons #right {
+    right: 10px;
+  } */
